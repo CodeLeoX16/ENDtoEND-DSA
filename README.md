@@ -2,6 +2,10 @@
 
 Welcome to my Data Structures and Algorithms journey! This repository contains DSA questions that I solve day-to-day to improve my problem-solving skills.
 
+## 🚀 Quick Start
+
+New here? Check out the [Quick Start Guide](QUICKSTART.md) to add your first problem!
+
 ## 📚 Repository Structure
 
 ```
